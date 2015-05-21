@@ -1,2 +1,2 @@
-# janna-cc
-Jenna's Cake and Cupcakes
+# Jenna-CC
+Website for 'Jenna's Cake and Cupcakes'
